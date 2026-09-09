@@ -1,12 +1,12 @@
-# Hi there, I'm Ziad Adel! 👋
+# Hi there, I'm Zyad Adel! 👋
 
-### 🎓 Computer Science & Mathematics Student @ Suez University
-I'm a passionate learner exploring the intersection of logic, code, and mathematics. Currently in my first year (Class of 2029).
+### 🎓 Computer Science  Student @ Suez University
+I'm a passionate learner exploring the intersection of logic, code,  Currently in my first year (Class of 2029).
 
 ---
 
 ### 🔍 Career Focus:
-- **Actively seeking Internships** in Software Development and Data Science.
+- **Actively seeking Internships** in Software Development and Ai .
 - Open to collaborative projects and learning from industry professionals.
 
 ### 🚀 What I'm working on:
@@ -22,8 +22,8 @@ I'm a passionate learner exploring the intersection of logic, code, and mathemat
 
 ### 🎮 Beyond the Code:
 When I'm not debugging or studying, I enjoy:
-- **Gaming:** Competitive matches in **Valorant** or exploring the world of **Genshin Impact**.
-- **Media:** Diving into **Manhwa** and catching up on the latest **Anime** seasons.
+- **Gaming:** Competitive matches in **Valorant** or exploring in  **Genshin Impact**.
+- **Media:** reading  **Manhwa**  .
 - **Reading:** Classical literature and dystopian novels.
 
 ---
